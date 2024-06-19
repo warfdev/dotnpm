@@ -1,0 +1,21 @@
+{
+  "name": "dotnpm",
+  "version": "1.0.0",
+  "description": "Increase your package's download statistics!",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.20.2"
+  },
+  "scripts": {
+    "test": "echo \"All tests passed. Probably.\""
+  },
+  "bin": {
+    "dotnpm": "./index.js"
+  },
+  "author": "warfdev A.K.A zsdot",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.2",
+    "yargs": "^11.0.0"
+  }
+}
