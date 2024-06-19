@@ -51,14 +51,6 @@
 
 <div align="center">
   
-  # 🏳 VirusTotal Check
+  ## enjoy
   
 </div>
-
-<br/>
-
-<p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ?si=4VIC9MrmNavSqKog">
-    <img width="300" src="https://media.discordapp.net/attachments/1248334903909552231/1253064245134884894/Screenshot_20240619_220813_Chrome.jpg?ex=66747e84&is=66732d04&hm=d2dfdedf70d3b277a50ce347967c2998820bd110cb5c94cf41fa8c5875f993e4&" alt="app" style="border-radius: 13px">
-  </a>
-</p>
