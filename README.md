@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ?si=4VIC9MrmNavSqKog">
-    <img width="300" src="https://media.discordapp.net/attachments/1248334903909552231/1253023825839394866/Screenshot_20240619_192214_Microsoft_Remote_Desktop.jpg?ex=667458e0&is=66730760&hm=41fe85ee7d6d0f1def265c8ae2deeb95fd8cdddcc18cdf8ba373eed85a797526&" alt="minecrapi" style="border-radius: 13px">
+    <img width="300" src="https://media.discordapp.net/attachments/1248334903909552231/1253023825839394866/Screenshot_20240619_192214_Microsoft_Remote_Desktop.jpg?ex=667458e0&is=66730760&hm=41fe85ee7d6d0f1def265c8ae2deeb95fd8cdddcc18cdf8ba373eed85a797526&" alt="app" style="border-radius: 13px">
   </a>
 </p>
 
@@ -56,3 +56,9 @@
 </div>
 
 <br/>
+
+<p align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ?si=4VIC9MrmNavSqKog">
+    <img width="300" src="https://media.discordapp.net/attachments/1248334903909552231/1253064245134884894/Screenshot_20240619_220813_Chrome.jpg?ex=66747e84&is=66732d04&hm=d2dfdedf70d3b277a50ce347967c2998820bd110cb5c94cf41fa8c5875f993e4&" alt="app" style="border-radius: 13px">
+  </a>
+</p>
