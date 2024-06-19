@@ -51,7 +51,7 @@
 
 <div align="center">
   
-  # Enjoy.
+  # 🏳 VirusTotal Check
   
 </div>
 
