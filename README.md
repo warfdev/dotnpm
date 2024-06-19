@@ -21,6 +21,9 @@
 
 --- 
 
+> [!IMPORTANT]
+> exe building; This program was developed in the node.js environment and was converted to EXE thanks to the [pkg@5.8.1](https://www.npmjs.com/package/pkg) module available on the npmjs site. The actual version of this exe is the index/main javascript file.
+
 <div align="center">
   
   ## Set up in 3 steps
