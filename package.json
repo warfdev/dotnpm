@@ -1,21 +1,23 @@
 {
-  "name": "dotnpm",
-  "version": "1.0.0",
-  "description": "Increase your package's download statistics!",
-  "main": "index.js",
-  "engines": {
-    "node": ">=16.20.2"
-  },
-  "scripts": {
-    "test": "echo \"All tests passed. Probably.\""
-  },
-  "bin": {
-    "dotnpm": "./index.js"
-  },
-  "author": "warfdev A.K.A zsdot",
-  "license": "MIT",
-  "dependencies": {
-    "superagent": "^3.8.2",
-    "yargs": "^11.0.0"
-  }
+    "name": "dotnpm",
+    "version": "1.0.1",
+    "type": "commonjs",
+    "main": "dist/index.js",
+    "author": "saitan.wtf",
+    "description": "NPMJS download increase",
+    "bin": {
+        "zsdot-downloader": "dist/index.js"
+    },
+    "scripts": {
+        "dev": "tsc && node dist/index.js",
+        "build": "tsc"
+    },
+    "dependencies": {
+        "superagent": "^8.0.9"
+    },
+    "devDependencies": {
+        "@types/node": "^22.14.1",
+        "@types/superagent": "^8.1.9",
+        "typescript": "^5.3.3"
+    }
 }
